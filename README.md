@@ -25,7 +25,7 @@ Database Tables
 How to Run
 
 1. Open MySQL Workbench or VS Code
-2. Open the file `digital_library.sql` and 'Queries.sql'
+2. Open the file digital_library.sql and Queries.sql
 3. Run the scripts
 
 Sample Output
